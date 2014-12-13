@@ -1,1 +1,1 @@
-print "Hello World... I'm now becoming a ninja"
+print "Hello World... I'm now becoming a ninja [Part 2]"
